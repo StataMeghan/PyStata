@@ -1,0 +1,43 @@
+{
+  "Labels": {
+    "Dimensions": {
+      "_dimensions": {
+        "border_block": "Table border block",
+        "cell_type": "Table cell type",
+        "cmdset": "Command results index",
+        "colname": "Covariate names and column names",
+        "command": "Command option index",
+        "frequency": "Visit frequency",
+        "procedure": "Admission procedure",
+        "result": "Result",
+        "statcmd": "Statistic/command option index",
+        "var": "Statistic option variable"
+      },
+      "colname": {
+        "satis": "Patient satisfaction score"
+      },
+      "command": {
+        "0": "Statistic"
+      },
+      "frequency": {
+        ".m": "Total",
+        "1": "Low",
+        "2": "Medium",
+        "3": "High",
+        "4": "Very high"
+      },
+      "procedure": {
+        ".m": "Total",
+        "0": "Old",
+        "1": "New"
+      },
+      "result": {
+        "mean": "Mean",
+        "sd": "Standard deviation"
+      },
+      "var": {
+        "satis": "Patient satisfaction score"
+      }
+    }
+  }
+}
